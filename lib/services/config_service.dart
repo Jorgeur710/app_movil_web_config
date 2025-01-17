@@ -3,7 +3,7 @@ import 'package:http/http.dart';
 
 class ConfigService {
   final String _url =
-      'https://web-config-28e25-default-rtdb.europe-west1.firebasedatabase.app/';
+      //Url de tu backend;
 
   Future<Map<String, dynamic>> getAllConfig() async {
     Map<String, dynamic> config = {};
