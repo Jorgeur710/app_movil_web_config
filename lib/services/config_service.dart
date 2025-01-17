@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart';
 
 class ConfigService {
-  final String _url =
+  final String _url = '';
       //Url de tu backend;
 
   Future<Map<String, dynamic>> getAllConfig() async {
