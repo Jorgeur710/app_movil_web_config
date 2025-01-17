@@ -1,16 +1,5 @@
-# app_movil_web_config
+# App Movil Web Config
 
-A new Flutter project.
+Aplicacion movil realizada con flutter en los que se refleja los cambios hechos atraves de una web previamente desplegada https://gleaming-hotteok-6761e0.netlify.app/
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+El codigo de la aplicacion web esta en el repositorio siguiente
